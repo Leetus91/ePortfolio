@@ -5,11 +5,15 @@ Date: February 14th, 2023
 Description: WEBD-1000 e-Portfolio
 */
 body {
+  background-image: url("https://wallpaperaccess.com/full/5651978.png");
+  background-size: cover;
+  background-position: center; 
     background-color: rgb(77, 41, 1);
-    color: rgb(9, 23, 23);
+    color: rgb(42, 176, 176);
     font-family: 'Oswald', sans-serif;
     font-size: 16px;
     line-height: 1.4;
+ 
   }
 
   h1, h2, h3 {

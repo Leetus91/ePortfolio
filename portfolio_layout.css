@@ -4,6 +4,7 @@ Author: Lee Canam
 Date: February 14th, 2023
 Description: WEBD-1000 e-Portfolio
 */
+
 .resume-container {
     display: grid;
     grid-template-columns: 1fr 1fr; 

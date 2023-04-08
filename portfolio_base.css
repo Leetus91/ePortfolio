@@ -1,0 +1,33 @@
+#charset “UTF-8” 
+/*
+Author: Lee Canam
+Date: February 14th, 2023
+Description: WEBD-1000 e-Portfolio
+*/
+body {
+    background-color: rgb(77, 41, 1);
+    color: rgb(9, 23, 23);
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+  }
+
+h1 {
+    font-size: 32px;
+    color: rgb(112, 30, 30);
+  }
+  
+  div.section p {
+    margin-bottom: 10px;
+  }
+  ul li:first-child {
+    font-weight: bold;
+  }
+  a {
+    text-decoration: none;
+    color: rgb(14, 14, 2);
+  }
+  img {
+    border: 1px solid black;
+  }
+  
